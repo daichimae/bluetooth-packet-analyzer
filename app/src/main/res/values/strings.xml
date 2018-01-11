@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth Packet Analyzer</string>
+    <string name="error_bluetooth_not_supported">Bluetooth is not supported on this device.</string>
+</resources>
